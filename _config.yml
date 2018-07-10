@@ -83,7 +83,7 @@ social:
   - name: Facebook
     icon: facebook
     username: 노현우
-    url:https://www.facebook.com/profile.php?id=100003245759104
+    url: https://www.facebook.com/profile.php?id=100003245759104
     desc: Friend me on Facebook
     share: true
 
