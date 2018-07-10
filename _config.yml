@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: noh784512
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "about computer science"
 email: noh784512@gmail.com
 name: hyunwoo
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  studying computer science
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -82,22 +82,22 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url:
+    username: 노현우
+    url:https://www.facebook.com/profile.php?id=100003245759104
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: noh784512
+    url: https://github.com/noh784512
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: hyunwoo
+    url: https://www.linkedin.com/in/%ED%98%84%EC%9A%B0-%EB%85%B8-b21239157/
     desc: Connect with me on LinkedIn
     share: true
 
