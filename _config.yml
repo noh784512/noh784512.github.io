@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: noh784512
-subtitle: "about computer science"
+subtitle: about computer science
 email: noh784512@gmail.com
 name: hyunwoo
 description: >
@@ -83,7 +83,7 @@ social:
   - name: Facebook
     icon: facebook
     username: 노현우
-    url:https://www.facebook.com/profile.php?id=100003245759104
+    url: https://www.facebook.com/profile.php?id=100003245759104
     desc: Friend me on Facebook
     share: true
 
