@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noh784512.github.io/sitemap.xml
