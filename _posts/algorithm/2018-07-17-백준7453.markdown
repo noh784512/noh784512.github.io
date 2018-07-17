@@ -5,7 +5,7 @@ date:   2018-07-17 14:48:59
 categories: algorithm
 ---
 
-문제 : https://www.acmicpc.net/problem/7453
+문제 : <https://www.acmicpc.net/problem/7453>
 
 시간초과를 해결하지 못해서 결국 다른 사람들의 풀이를 봤다.  
 
