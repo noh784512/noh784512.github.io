@@ -4,6 +4,7 @@ title:  "백준 1644 소수의 연속합"
 date:   2018-07-11 10:43:59
 author: hyunwoo
 categories: algorithm
+tags: 백준
 ---
 
 문제 : <https://www.acmicpc.net/problem/1644>
