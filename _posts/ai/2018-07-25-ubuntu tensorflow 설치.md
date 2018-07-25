@@ -3,7 +3,7 @@ layout: post
 title:  "ubuntu에 tensorflow 설치"
 date:   2018-07-25 00:43:59
 author: hyunwoo
-categories: algorithm
+categories: ai
 ---
 
 3~4학년때 진행했던 프로젝트를 복습하려고 tensorflow를 설치했는데, 계속 오류나서 개고생했다.
