@@ -8,7 +8,7 @@ categories: algorithm
 quick sort
 ----
 
-![](./img/sort.jpg)
+![sort](../img/sort.jpg)
 
 quick sort의 경우 시간복잡도의 최악은 O(N^2)이지만 최악의 경우가 나올 경우는 극히 드물다. 또한 merge sort보다 보통 빠르다고 알려져있다. quick sort는 정렬을 하기 위해 배열이 따로 필요하지 않지만, merge sort는 N만큼의 추가적인 공간이 필요하기 때문에 N이 커졌을 경우 속도 차이가 발생한다.
 
