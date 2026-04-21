@@ -1,0 +1,88 @@
+{
+  "organization": "KATA",
+  "organization_full": "대한아마추어테니스연맹",
+  "source_url": "http://new.ikata.org/Katalanking/player_lanking/list.asp",
+  "last_updated": "2025-03-31",
+  "gender": "male",
+  "players": [
+    {
+      "id": "kata-001",
+      "name": "홍길동",
+      "clubs": ["강남TC"],
+      "category": "신인부",
+      "rank": 12,
+      "points": 450,
+      "tournaments": [
+        {
+          "date": "2025-03-15",
+          "name": "2025 봄시즌 전국오픈",
+          "category": "신인부",
+          "result": "8강",
+          "points_earned": 50
+        },
+        {
+          "date": "2025-02-08",
+          "name": "2025 신년 전국대회",
+          "category": "신인부",
+          "result": "4강",
+          "points_earned": 100
+        },
+        {
+          "date": "2024-11-10",
+          "name": "2024 가을 전국오픈",
+          "category": "신인부",
+          "result": "우승",
+          "points_earned": 300
+        }
+      ]
+    },
+    {
+      "id": "kata-002",
+      "name": "김철수",
+      "clubs": ["수원테니스클럽"],
+      "category": "오픈부",
+      "rank": 45,
+      "points": 210,
+      "tournaments": [
+        {
+          "date": "2025-03-22",
+          "name": "2025 경기권 오픈",
+          "category": "오픈부",
+          "result": "16강",
+          "points_earned": 30
+        },
+        {
+          "date": "2024-12-07",
+          "name": "2024 송년 대회",
+          "category": "오픈부",
+          "result": "8강",
+          "points_earned": 80
+        }
+      ]
+    },
+    {
+      "id": "kata-003",
+      "name": "박민수",
+      "clubs": ["송파TC", "잠실테니스회"],
+      "category": "신인부",
+      "rank": 28,
+      "points": 310,
+      "tournaments": [
+        {
+          "date": "2025-03-01",
+          "name": "2025 서울시장배",
+          "category": "신인부",
+          "result": "준우승",
+          "points_earned": 200
+        },
+        {
+          "date": "2024-10-13",
+          "name": "2024 가을 전국오픈",
+          "category": "신인부",
+          "result": "32강",
+          "points_earned": 20
+        }
+      ]
+    }
+  ]
+}

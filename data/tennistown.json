@@ -1,0 +1,73 @@
+{
+  "organization": "Tennistown",
+  "organization_full": "테니스타운",
+  "source_url": "https://2024.tennis/ranking/",
+  "last_updated": "2025-03-31",
+  "gender": "male",
+  "players": [
+    {
+      "id": "tt-001",
+      "name": "홍길동",
+      "clubs": ["강남TC"],
+      "type": "단식",
+      "tier": "Gold",
+      "rank": 15,
+      "points": 1280,
+      "match_count": 23,
+      "tournaments": [
+        {
+          "date": "2025-03-30",
+          "name": "테니스타운 3월 오픈",
+          "type": "단식",
+          "result": "준우승",
+          "points_earned": 180
+        },
+        {
+          "date": "2025-02-16",
+          "name": "테니스타운 2월 리그",
+          "type": "단식",
+          "result": "4강",
+          "points_earned": 120
+        }
+      ]
+    },
+    {
+      "id": "tt-002",
+      "name": "이준호",
+      "clubs": ["부산해운대TC", "광안리회"],
+      "type": "복식",
+      "tier": "Silver",
+      "rank": 42,
+      "points": 720,
+      "match_count": 18,
+      "tournaments": [
+        {
+          "date": "2025-03-10",
+          "name": "테니스타운 영남 복식 오픈",
+          "type": "복식",
+          "result": "8강",
+          "points_earned": 80
+        }
+      ]
+    },
+    {
+      "id": "tt-003",
+      "name": "최현우",
+      "clubs": ["용산TC"],
+      "type": "단식",
+      "tier": "Bronze",
+      "rank": 87,
+      "points": 410,
+      "match_count": 12,
+      "tournaments": [
+        {
+          "date": "2025-03-05",
+          "name": "테니스타운 서울 리그",
+          "type": "단식",
+          "result": "16강",
+          "points_earned": 30
+        }
+      ]
+    }
+  ]
+}

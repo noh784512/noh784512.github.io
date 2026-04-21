@@ -1,0 +1,105 @@
+{
+  "organization": "KATO",
+  "organization_full": "KATO",
+  "source_url": "https://kato.kr/ranking",
+  "last_updated": "2025-03-31",
+  "gender": "male",
+  "players": [
+    {
+      "id": "kato-001",
+      "name": "홍길동",
+      "clubs": ["강남TC", "역삼회"],
+      "category": "챌린저",
+      "rank": 8,
+      "points": 620,
+      "tournaments": [
+        {
+          "date": "2025-03-29",
+          "name": "2025 KATO 챌린저 1차",
+          "category": "챌린저",
+          "result": "4강",
+          "points_earned": 120
+        },
+        {
+          "date": "2025-02-22",
+          "name": "2025 봄 챌린저 오픈",
+          "category": "챌린저",
+          "result": "준우승",
+          "points_earned": 200
+        },
+        {
+          "date": "2024-12-15",
+          "name": "2024 송년 KATO 리그",
+          "category": "챌린저",
+          "result": "8강",
+          "points_earned": 80
+        }
+      ]
+    },
+    {
+      "id": "kato-002",
+      "name": "김철수",
+      "clubs": ["분당BJ", "판교클럽"],
+      "category": "마스터스",
+      "rank": 52,
+      "points": 190,
+      "tournaments": [
+        {
+          "date": "2025-03-08",
+          "name": "2025 경기 마스터스 1차",
+          "category": "마스터스",
+          "result": "32강",
+          "points_earned": 20
+        }
+      ]
+    },
+    {
+      "id": "kato-003",
+      "name": "이준호",
+      "clubs": ["부산해운대TC"],
+      "category": "마스터스",
+      "rank": 15,
+      "points": 480,
+      "tournaments": [
+        {
+          "date": "2025-03-15",
+          "name": "2025 영남 마스터스",
+          "category": "마스터스",
+          "result": "우승",
+          "points_earned": 300
+        },
+        {
+          "date": "2025-01-19",
+          "name": "2025 신년 전국 KATO",
+          "category": "마스터스",
+          "result": "8강",
+          "points_earned": 80
+        }
+      ]
+    },
+    {
+      "id": "kato-004",
+      "name": "박민수",
+      "clubs": ["송파TC"],
+      "category": "챌린저",
+      "rank": 33,
+      "points": 260,
+      "tournaments": [
+        {
+          "date": "2025-03-22",
+          "name": "2025 서울 챌린저",
+          "category": "챌린저",
+          "result": "16강",
+          "points_earned": 30
+        },
+        {
+          "date": "2024-11-24",
+          "name": "2024 가을 KATO 오픈",
+          "category": "챌린저",
+          "result": "준우승",
+          "points_earned": 200
+        }
+      ]
+    }
+  ]
+}
